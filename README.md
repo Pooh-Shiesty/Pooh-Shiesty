@@ -4,7 +4,7 @@ PS C:\Users\PepeTheRoya> neofetch
 
 <img align="left" src="./assets/preview/logo.png" alt="logo.png" width="229"/> 
 
-```chsarp
+```
 PepeTheRoya@github.com
 ----------------------
 OS: Windows 10 Home
